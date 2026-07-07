@@ -456,12 +456,15 @@ import umap
 # Shape [n_players, 24]
 X_pvs = np.asarray([val for val in pvs.player_vectors_.values()])
 
+# Playing position
+y_labels = [pid_to_position[key] for key in pvs.player_vectors_.keys()]
+
 reducer = umap.UMAP(n_neighbors=15, metric="manhattan")
 
 # Shape [n_players, 2]
 embedding = reducer.fit_transform(X)
 
-data = pd.DataFrame({"z0": embedding[:, 0], "z1": embedding[:, 1], "Position": Y})
+data = pd.DataFrame({"z0": embedding[:, 0], "z1": embedding[:, 1], "Position": y_labels})
 
 fig, ax = plt.subplots()
 sns.scatterplot(data, x="z0", y="z1", hue="Position")
