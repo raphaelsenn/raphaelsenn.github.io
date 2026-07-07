@@ -385,7 +385,7 @@ with respective principal components
 
 $$
 \{4, 4, 8, 8\}
-$$, 
+$$
 
 over an entire season of multiple leagues.
 
