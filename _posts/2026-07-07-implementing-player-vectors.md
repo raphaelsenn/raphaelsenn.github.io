@@ -1,7 +1,9 @@
 ---
 title: 'Implementing Player Vectors'
 date: 2026-07-07
-permalink: /posts/2026/07/blog-post-1/
+permalink: /posts/2026/07/implementing-player-vectors/
+tags:
+  - data-science
 ---
 Since this summer is the FIFA World Cup 2026, my first blog post is about football. The goal of this post is to discuss the Player Vectors framework, provide detailed algorithms that make it straightforward to implement - in any programming language of choice.
 Further, we reduce the dimension of player vectors by using the non-linear dimensionality reduction algorithm UMAP.
