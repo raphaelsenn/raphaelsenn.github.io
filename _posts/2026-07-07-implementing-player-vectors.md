@@ -375,10 +375,27 @@ plt.show()
 </figure>
 
 Figure 1 illustrates all 24 components of the player vector,
-constructed from the events $\{\text{shot}, \text{cross}, \text{dribble}, \text{pass}\}$ with respective principal components $\{4, 4, 5, 5\}$, 
+constructed from the events 
+
+$$
+\{\text{shot}, \text{cross}, \text{dribble}, \text{pass}\}
+$$ 
+
+with respective principal components 
+
+$$
+\{4, 4, 8, 8\}
+$$, 
+
 over an entire season of multiple leagues.
 
-Given a arbitrary player $p_i$, the resulting player vector $v^{(p_i)} \in \mathbb{R}_{\ge 0}^{18}$ is therefore 18-dimensional, containing non-negative values.
+Given a arbitrary player $p_i$, the resulting player vector 
+
+$$
+v^{(p_i)} \in \mathbb{R}_{\ge 0}^{24}
+$$ 
+
+is therefore 24-dimensional, containing non-negative values.
 Each element $v^{(p_i)}_{j}$ represents the playing style strength in the $j$-th heatmap shown in Figure 1. The values in the vector therefore indicate how strongly the player expresses each global playing style heatmap shown in Figure 1.
 
 ```python
