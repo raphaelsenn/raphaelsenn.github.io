@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 ## About Me
-I completed my Bachelor of Science in Computer Science at the University of Freiburg. I have since started my Master’s degree in Computer Science at the same university.
+I completed my Bachelor of Science (B.Sc.) in Computer Science at the Albert-Ludwigs-Universität Freiburg. I have since started my Master’s degree in Computer Science at the same university.
 
-## Blog
-I write about reinforcement learning, computer vision and data science here:
-
-[Read my blog](https://raphaelsenn.github.io/blog/)
+I also content about reinforcement learning, computer vision, and data science on my [Blog](https://raphaelsenn.github.io/blog/) and [YouTube Channel](https://www.youtube.com/@raphaelsenn8).
