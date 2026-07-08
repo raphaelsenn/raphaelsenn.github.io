@@ -11,7 +11,7 @@ Further, we reduce the dimension of player vectors by using the non-linear dimen
 Motivation
 ======
 Player Vectors were introduced by Decroos and Davis [[1]](#decroos2020player). The motivation behind Player Vectors is to provide a flexible framework for representing a player's playing style in a compact vector form - derived directly from raw event data.
-Such compact representations can be used in player scouting (e.g. by searching for players with similar playing styles). Furthermore, they are designed to be interpretable by both human experts and machine learning systems. E.g. each component of a player vector represents the "strength" of the playing style in a "lookup table" of heatmaps; fixed-size vectors can be easly feed into machine learning systems - neural networks, decision trees, ... 
+Such compact representations can be used in player scouting (e.g. by searching for players with similar playing styles). Furthermore, they are designed to be interpretable by both human experts and machine learning systems. E.g. each component of a player vector represents the "strength" of the playing style in a "lookup table" of heatmaps; fixed-size vectors can be easely feed into machine learning systems - neural networks, decision trees, ...
 
 To represent playing style in a fixed-size vector, we first need to define what we mean by playing style. 
 Here, we follow the definition of Decroos and Davis [[1]](#decroos2020player):
@@ -466,7 +466,6 @@ embedding = reducer.fit_transform(X)
 
 data = pd.DataFrame({"z0": embedding[:, 0], "z1": embedding[:, 1], "Position": y_labels})
 
-fig, ax = plt.subplots()
 sns.scatterplot(data, x="z0", y="z1", hue="Position")
 plt.show()
 ```
