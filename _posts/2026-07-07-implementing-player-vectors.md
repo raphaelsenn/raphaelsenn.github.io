@@ -471,7 +471,7 @@ plt.show()
 ```
 
 <figure id="umap-embedding" align="center">
-  <img src="/images/posts/player_vectors/pv_umap_embedding.png" alt="Figure 3: Constructing Heatmaps">
+  <img src="/images/posts/player_vectors/pv_umap_embedding_2.png" alt="Figure 3: Constructing Heatmaps">
   <figcaption><em>Figure 4: 2-dimensional UMAP embedding of our player vectors with n_neighbors=15 and min_dist = 0.01.</em></figcaption>
 </figure>
 
