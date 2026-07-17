@@ -1,5 +1,5 @@
 ---
-title: 'Implementing Player Vectors'
+title: 'Player Vectors: Implementation and Empirical Analysis'
 date: 2026-07-07
 permalink: /posts/2026/07/implementing-player-vectors/
 tags:
