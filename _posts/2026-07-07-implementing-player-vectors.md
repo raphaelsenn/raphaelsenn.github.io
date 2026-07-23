@@ -476,7 +476,7 @@ plt.show()
 </figure>
 
 Figure 4 shows the resulting UMAP-embeddings of our player vectors.
-Each player is labeled with their according to thier playing position on the field. 
+Each player is labeled according to thier playing position on the field. 
 
 We observe that, even without relying on clustering, that player vectors are meaningfully embedded (except for some outliers). Goalkeepers and defenders form clearly clusters, which we attribute to their distinctive playing styles. E.g. most goalkeepers
 and defenders exhibit low values in the shot and cross components, making them easily
@@ -486,7 +486,7 @@ attacking positions, while others play deeper and resemble defenders.
 
 Conclusion
 ------
-We have successfully implemented the Player Vectors framework and computed player vectors on a per-season level using the complete Wyscout dataset of the 2017/2018 season. 
+We have implemented the Player Vectors framework and computed player vectors on a per-season level using the complete Wyscout dataset of the 2017/2018 season. 
 Furthermore, we embedded player vectors using the dimensionality reduction algorithm UMAP and derived distinctive clusters when labeling players with thier actual playing position. 
 
 References
