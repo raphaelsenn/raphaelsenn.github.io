@@ -1,5 +1,8 @@
-# Books
-
+---
+title: "Books"
+permalink: /books/
+author_profile: true
+---
 Since I read a lot of books, I decided in August 2026 to start keeping track of them.
 
 ## August 2026:
