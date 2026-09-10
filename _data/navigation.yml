@@ -22,6 +22,9 @@ main:
         
   - title: "Blog"
     url: /blog/
+  
+  - title: "Books"
+    url: /books/
     
   # - title: "CV"
   #   url: /cv/
