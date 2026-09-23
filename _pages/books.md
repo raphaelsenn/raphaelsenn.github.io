@@ -16,3 +16,7 @@ Since I read a lot of books, I decided in August 2026 to start keeping track of 
 
 ## September 2026
 * **Die Eskalation**, by Andreas Brandhorst
+* **Corpus Delicti: Ein Prozess**, by Juli Zeh
+* **The Passengers**, by John Marrs
+* **Tomorrow & Tomorrow**, by Thomas Carl Sweterlitsch 
+
