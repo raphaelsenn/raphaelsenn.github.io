@@ -5,7 +5,7 @@ author_profile: true
 ---
 Since I read a lot of books, I decided in August 2026 to start keeping track of them.
 
-## August 2026:
+## August 2026
 * **Project Hail Mary**, by Andy Weir
 * **MANIAC**, by Benjamín Labatut
 * **Artemis**, by Andy Weir
