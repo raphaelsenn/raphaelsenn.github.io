@@ -24,3 +24,5 @@ Since I read a lot of books, I decided in August 2026 to start keeping track of 
 
 ## October 2026
 * **The One**, by John Marrs
+* **What Lies Between Us**, by John Marrs
+* **Sapiens: A Brief History of Humankind**, by Yuval Noah Harari
