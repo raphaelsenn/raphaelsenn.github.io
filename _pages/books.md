@@ -27,5 +27,5 @@ Since I read a lot of books, I decided in August 2026 to start keeping track of 
 * **What Lies Between Us**, by John Marrs
 * **1984**, by George Orwell
 * **Shutter Island**, by Dennis Lehane
-
+* **The Silence of the Lambs**, by Thomas Harris
 
