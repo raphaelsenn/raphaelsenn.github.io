@@ -25,7 +25,11 @@ Since I read a lot of books, I decided in August 2026 to start keeping track of 
 ## October 2026
 * **The One**, by John Marrs
 * **What Lies Between Us**, by John Marrs
+* **Weiße Nächte**, by Fjodor Michailowitsch Dostojewski
 * **1984**, by George Orwell
 * **Shutter Island**, by Dennis Lehane
 * **The Silence of the Lambs**, by Thomas Harris
 
+## November 2026
+* **The Silent Patient**, by Alex Michaelides
+* **The Chain**, by Adrian McKinty
